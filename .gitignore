@@ -1,3 +1,4 @@
-/input.jpg
-/sketch_fast_lines_dots.jpg
+*.jpg
+*.png
+*.json
 /venv
