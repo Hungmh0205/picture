@@ -66,7 +66,7 @@ def load_and_draw_from_data(
                 cv2.destroyAllWindows()
                 return
 
-    print("[✔] Replay complete.")
+    print("[✔] Draw complete.")
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
